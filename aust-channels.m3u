@@ -1,0 +1,3 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="9HDBris.au" tvg-name="9Brisbane" tvg-chno="2000" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/9HD.jpg?w=520&ssl=1" group-title="Channel 9 HD", Channel 9 Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
