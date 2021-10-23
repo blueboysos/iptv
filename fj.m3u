@@ -5,3 +5,5 @@ https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="FijiTV.fj" tvg-country="FJ" tvg-language="English" tvg-logo="https://i.imgur.com/z4AuQtX.png" group-title="",Fiji TV (480p) [Not 24/7]
 https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
+#EXTINF:-1 tvg-id="9hdmel.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/t2gZPiz.jpg" group-title="Australia",9HD (Melburne)
+https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
