@@ -3,6 +3,8 @@
 https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
 #EXTINF:0 tvg-id="9HDadel.au" tvg-name="9Adelaide" tvg-chno="2002" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/9HD.jpg?w=520&ssl=1" group-title="Channel 9 HD", Channel 9 Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008323/ch9-adl/master.m3u8
-#EXTINF:0 tvg-id="9HDsydn.au" tvg-name="9Adelaide" tvg-chno="2003" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/9HD.jpg?w=520&ssl=1" group-title="Channel 9 HD", Channel 9 Sydney
+#EXTINF:0 tvg-id="9HDsydn.au" tvg-name="9Sydney" tvg-chno="2003" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/9HD.jpg?w=520&ssl=1" group-title="Channel 9 HD", Channel 9 Sydney
+https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
+#EXTINF:0 tvg-id="9HDpert.au" tvg-name="9Perth" tvg-chno="2004" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/9HD.jpg?w=520&ssl=1" group-title="Channel 9 HD", Channel 9 Perth
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 #EXTINF:0
