@@ -7,4 +7,6 @@ https://9now-livestreams.akamaized.net/hls/live/2008323/ch9-adl/master.m3u8
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 #EXTINF:0 tvg-id="9HDpert.au" tvg-name="9Perth" tvg-chno="2004" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/9HD.jpg?w=520&ssl=1" group-title="Channel 9 HD", Channel 9 Perth
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
+#EXTINF:0 tvg-id="9HDmelb.au" tvg-name="9Melb" tvg-chno="2005" tvg-logo="https://i2.wp.com/tvtonight.com.au/wp-content/uploads/9HD.jpg?w=520&ssl=1" group-title="Channel 9 HD", Channel 9 Melbourne
+https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
 #EXTINF:0
