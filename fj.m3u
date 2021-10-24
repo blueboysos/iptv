@@ -1,11 +1,3 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia (720p)
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.us" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
-https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="FijiTV.fj" tvg-country="FJ" tvg-language="English" tvg-logo="https://i.imgur.com/z4AuQtX.png" group-title="",Fiji TV (480p) [Not 24/7]
 https://api.new.livestream.com/accounts/19514369/events/6947821/live.m3u8
-#EXTINF:-1 tvg-id="9hdmel.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/t2gZPiz.jpg" group-title="Australia",9HD (Melburne)
-https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://static.epg.best/us/FoxNews.us.png" group-title="News",Fox News Channel (720p)
-http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
