@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tvprofil.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+#EXTINF:-1 tvg-id="9bri.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="",Channel 9 Brisbane
+https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
+#EXTINF:-1 tvg-id="9ade.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="",Channel 9 Adelaide
+https://9now-livestreams.akamaized.net/hls/live/2008323/ch9-adl/master.m3u8
+#EXTINF:-1 tvg-id="9per.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="",Channel 9 Perth
+https://9now-livestreams.akamaized.net/hls/live/2008325/ch9-per/master.m3u8
