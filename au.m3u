@@ -1,3 +1,0 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tvprofil.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTINF:-1 tvg-id="9hdmel.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/t2gZPiz.jpg" group-title="Australia",9HD (Melburne)
-https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
