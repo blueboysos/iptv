@@ -1,3 +1,3 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/bg/tvprofil.com.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTINF:-1 tvg-id="sky.au" tvg-country="AU" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/Ua4Iq5novXnNBN2dpvabhYy_O63nB6zPCETAOwTrB0UXxHP27GpgRyQUswcXFY27Yw" group-title="",Sky New Australia
+#EXTINF:-1 tvg-id="sky.au" tvg-country="AU" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/Ua4Iq5novXnNBN2dpvabhYy_O63nB6zPCETAOwTrB0UXxHP27GpgRyQUswcXFY27Yw" group-title="",Sky News Australia
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
