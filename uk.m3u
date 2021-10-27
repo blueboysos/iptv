@@ -1,2 +1,3 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTINF:-1,Sky News UK
+#EXTINF:-1 tvg-id="SKY.uk" tvg-country="UK" tvg-language="News" tvg-logo="https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-c/sky-news-uk.png" group-title="UK",Sky News UK
+https://list.iptvcat.com/my_list/s/ba8443854d20b1dce348633c68c90dc7.m3u8
