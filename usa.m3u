@@ -21,3 +21,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 http://ebest.live:80/twrzGBMP82/7AgZtjrV7x/138906
 #EXTINF:-1 tvg-id="NBA.us" tvg-country="US" tvg-language="News" tvg-logo="" group-title="USA",NBA TV
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/5450
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="News" tvg-logo="" group-title="USA",MSNBC
+https://list.iptvcat.com/my_list/s/fdf9cfe8f44b5c04014515c4b4489d8c.m3u8
